@@ -1,6 +1,6 @@
 {
-    "name": "Organization Workflow",
-    "description": "Organization CI.",
+    "name": "Kodmain Workflow",
+    "description": "Analyze repository.",
     "iconName": "octicon codescan",
     "categories": [
         "Go"
