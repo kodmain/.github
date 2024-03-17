@@ -1,0 +1,9 @@
+{
+    "name": "Organization Workflow",
+    "description": "Organization CI.",
+    "iconName": "octicon codescan",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": []
+}
